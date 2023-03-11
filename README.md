@@ -3,7 +3,7 @@
 Link of notebooks:
 
 
--Notebook 1 (optional with details on research phase) for experiments and observation https://colab.research.google.com/drive/1OTBbwNK72qAlZzHjouNPjd2iwRHjqYTU?usp=sharing
+-Notebook 1 (optional with details on research phase) for observation https://colab.research.google.com/drive/1OTBbwNK72qAlZzHjouNPjd2iwRHjqYTU?usp=sharing
 
 -Notebook 2 : explanation of our solution and evaluation https://colab.research.google.com/drive/1oKpaSYUkLNx1hXJHwsrKjabDS5xCW3mp?usp=sharing
 
