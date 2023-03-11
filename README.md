@@ -1,4 +1,4 @@
-# TabularDSProject_improve_histogram_visualisation
+#TDS project: improving histogram visualization: selecting optimal number of bins
 
 Link of notebooks:
 
