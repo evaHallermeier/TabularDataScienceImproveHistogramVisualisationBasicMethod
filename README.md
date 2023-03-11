@@ -10,3 +10,7 @@ Link of notebooks:
 
 
 **Requirement**: we only used classic modules and library that we used in class so there is no specific requirement for running the project.
+
+**Run the project**: clone all the repository run notebook 2 o see details on the implementation of the solution and evaluation of the method.
+
+
