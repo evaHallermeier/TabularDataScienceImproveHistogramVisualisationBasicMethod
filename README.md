@@ -1,4 +1,6 @@
-# TDS project: improving histogram visualization: selecting optimal number of bins
+# TDS project: improving histogram visualization: selecting optimal number of bin
+
+Today, the method to build an histogram is basic, it choose a default value of 10 as number of bins. We created a method that dinamically based on the data choose the best value as the number of bins to represent the histogram of the data.
 
 Link of notebooks:
 
